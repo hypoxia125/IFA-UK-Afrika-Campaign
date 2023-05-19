@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="IFA_UK_DES">
+  <Package name="Common">
+    <Container name="Common">
+      <Key ID="STR_IFA_UK_DES_WAITFORPLAYERS">
+        <Original>Waiting for players in the lobby to spawn...</Original>
+        <English>Waiting for players in the lobby to spawn...</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_CAMPAIGN_TITLE">
+        <Original>IFA - Desert Rats</Original>
+        <English>IFA - Desert Rats</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_CAMPAIGN_DESC">
+        <Original>The UK's Desert Rats have joined forces with US allies to fight the Germans in Libya.</Original>
+        <English>The UK's Desert Rats have joined forces with US allies to fight the Germans in Libya.</English>
+      </Key>
+    </Container>
+  </Package>
+  <Package name="M01">
+    <Container name="Mission Info">
+      <Key ID="STR_IFA_UK_DES_M01_MISSION_TITLE">
+        <Original>Desert Shadows</Original>
+        <English>Desert Shadows</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_MISSION_DESC">
+        <Original>A recon team is tasked to infiltrate a German base hidden in castle ruins and overlook an airfield.</Original>
+        <English>A recon team is tasked to infiltrate a German base hidden in castle ruins and overlook an airfield.</English>
+      </Key>
+    </Container>
+    <Container name="Sentences">
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_01">
+        <Original>That's close enough. Cut the lights...</Original>
+        <English>That's close enough. Cut the lights...</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_02">
+        <Original>Listen up, lads! We've got ourselves a bloody important mission ahead. We're gonna infiltrate a newly constructed German base holed up in those castle ruins and get us a good view of that airfield.</Original>
+        <English>Listen up, lads! We've got ourselves a bloody important mission ahead. We're gonna infiltrate a newly constructed German base holed up in those castle ruins and get us a good view of that airfield.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_03">
+        <Original>Intelligence tells us those sneaky buggers have planted mines all around the airstrip, so we need to get inside that castle to get a clear view.</Original>
+        <English>Intelligence tells us those sneaky buggers have planted mines all around the airstrip, so we need to get inside that castle to get a clear view.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_04">
+        <Original>This mission may prove difficult if you don't keep your wits about you and stay hidden, but its ultimately your choice how you decide to get it done.</Original>
+        <English>This mission may prove difficult if you don't keep your wits about you and stay hidden, but its ultimately your choice how you decide to get it done.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_OBSERVE_MILLER_01">
+        <Original>Alright... Find a vantage point within the castle, a commanding position from which we can survey the airfield and gather crucial intelligence.</Original>
+        <English>Alright... Find a vantage point within the castle, a commanding position from which we can survey the airfield and gather crucial intelligence.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_DESTROY_MILLER_01">
+        <Original>Shit, they have a lot of aircraft. If we attack with our tanks later, they will get slaughtered.</Original>
+        <English>Shit, they have a lot of aircraft. If we attack with our tanks later, they will get slaughtered.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_DESTROY_MILLER_02">
+        <Original>We have no choice but to try and take them out. Figure out a way to destroy them.</Original>
+        <English>We have no choice but to try and take them out. Figure out a way to destroy them.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_DESTROY_MILLER_03">
+        <Original>You are cleared to engage any and all forces. Out.</Original>
+        <English>You are cleared to engage any and all forces. Out.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_SPEECH_ESCAPE_MILLER_01">
+        <Original>Excellent work! That should eliminate any German aircraft in our later assault. Now, make it to the extraction zone and make it out of there alive!</Original>
+        <English>Excellent work! That should eliminate any German aircraft in our later assault. Now, make it to the extraction zone and make it out of there alive!</English>
+      </Key>
+    </Container>
+    <Container name="Tasks">
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_INFIL_TITLE">
+        <Original>Infiltrate the German Base</Original>
+        <English>Infiltrate the German Base</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_INFIL_DESC">
+        <Original>Listen up, lads! We've got ourselves a bloody important mission ahead. We're gonna infiltrate a German base holed up in a blasted castle. Intelligence tells us those sneaky buggers have planted mines all around, so we need to get inside that castle to get a clear view of their precious airfield.</Original>
+        <English>Listen up, lads! We've got ourselves a bloody important mission ahead. We're gonna infiltrate a German base holed up in a blasted castle. Intelligence tells us those sneaky buggers have planted mines all around, so we need to get inside that castle to get a clear view of their precious airfield.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_OBS_TITLE">
+        <Original>Observe the Airfield</Original>
+        <English>Observe the Airfield</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_OBS_DESC">
+        <Original>Observe the airfield. Look for any key structures or vehicles present and report them to headquarters immediately.</Original>
+        <English>Observe the airfield. Look for any key structures or vehicles present and report them to headquarters immediately.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_DEST_TITLE">
+        <Original>Destroy the FW190s</Original>
+        <English>Destroy the FW190s</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_DEST_DESC">
+        <Original>The Germans have multiple battle-ready FW190s. If we don't do something about them, they will destroy our tank force easily. Get down there and destroy them.</Original>
+        <English>The Germans have multiple battle-ready FW190s. If we don't do something about them, they will destroy our tank force easily. Get down there and destroy them.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_ESCA_TITLE">
+        <Original>Escape</Original>
+        <English>Escape</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_TASKS_ESCA_DESC">
+        <Original>Escape and return to base. Utilize any German vehicles you have found and get to the exfiltration zone.</Original>
+        <English>Escape and return to base. Utilize any German vehicles you have found and get to the exfiltration zone.</English>
+      </Key>
+    </Container>
+    <Container name="Diary">
+      <Key ID="STR_IFA_UK_DES_M01_DIARY_SITU_TITLE">
+        <Original>Situation</Original>
+        <English>Situation</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_DIARY_SITU_DESC">
+        <Original>Earlier this month, scouts have found that the Germans have been having increased activity in the area of Fort Marcuca. We suspect that the Germans have created a forward base inside of the castle have have constructed a makeshift airfield. We need to find what assets the Germans have brought to this base.</Original>
+        <English>Earlier this month, scouts have found that the Germans have been having increased activity in the area of Fort Marcuca. We suspect that the Germans have created a forward base inside of the castle have have constructed a makeshift airfield. We need to find what assets the Germans have brought to this base.</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>

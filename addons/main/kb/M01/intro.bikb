@@ -1,0 +1,47 @@
+class Sentences
+{
+    class intro_1
+    {
+        name = "IFA_UK_DES_M01_Intro_Miller_01";
+        text = "$STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_01";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M01\IFA_UK_DES_M01_Intro_Miller_01.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class intro_2
+    {
+        name = "IFA_UK_DES_M01_Intro_Miller_02";
+        text = "$STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_02";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M01\IFA_UK_DES_M01_Intro_Miller_02.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class intro_3
+    {
+        name = "IFA_UK_DES_M01_Intro_Miller_03";
+        text = "$STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_03";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M01\IFA_UK_DES_M01_Intro_Miller_03.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class intro_4
+    {
+        name = "IFA_UK_DES_M01_Intro_Miller_04";
+        text = "$STR_IFA_UK_DES_M01_SPEECH_INTRO_MILLER_04";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M01\IFA_UK_DES_M01_Intro_Miller_04.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+};
+
+class Arguments {};
+class Special {};
+startWithVocal[] = { "hour" };
+startWithConsonant[] = { "europe", "university" };

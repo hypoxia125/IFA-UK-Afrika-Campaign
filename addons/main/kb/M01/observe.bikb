@@ -1,0 +1,18 @@
+class Sentences
+{
+    class observe_1
+    {
+        name = "IFA_UK_DES_M01_Observe_Miller_01";
+        text = "$STR_IFA_UK_DES_M01_SPEECH_OBSERVE_MILLER_01";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M01\IFA_UK_DES_M01_Observe_Miller_01.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+};
+
+// Needed parameters.
+class Arguments {};
+class Special {};
+startWithVocal[] = { "hour" };
+startWithConsonant[] = { "europe", "university" };

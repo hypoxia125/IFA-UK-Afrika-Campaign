@@ -1,0 +1,52 @@
+class NoEndings
+{
+    endDefault = "";
+};
+
+class MissionDefault : NoEndings
+{
+    lives = -1;
+    noAward = 1;
+    cutscene = "";
+};
+
+class Campaign
+{
+    firstBattle = "Missions";
+
+    name = "$STR_IFA_UK_DES_CAMPAIGN_TITLE";
+    briefingName = "$STR_IFA_UK_DES_CAMPAIGN_TITLE";
+    author = "Hypoxic";
+    overviewPicture = "\z\IFA_UK_DES\main\data\img\modImg.jpg";
+    overviewText = "$STR_IFA_UK_DES_CAMPAIGN_DESC";
+    disableMP = 0;
+    enableHub = 1;
+
+    class IFA_UK_DES : NoEndings
+    {
+        firstMission = "IFA_UK_DES_M01";
+        name = "Libya";
+        cutscene = "";
+        end1 = "";
+
+        class IFA_UK_DES_M01 : MissionDefault
+        {
+            end1 = "IFA_UK_DES_M01";
+            template = "IFA_UK_DES_M01.iron_excelsior_Tobruk";
+        };
+    };
+
+	class Missions
+	{
+		name = "Libya";
+		cutscene = "";
+		firstMission = "";
+		end1 = "";
+		end2 = "";
+		end3 = "";
+		end4 = "";
+		end5 = "";
+		end6 = "";
+		lost = "";
+	};
+};
