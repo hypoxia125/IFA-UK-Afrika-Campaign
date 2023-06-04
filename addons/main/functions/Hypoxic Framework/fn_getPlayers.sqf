@@ -9,6 +9,14 @@
 	Return:
 		Alive Players - Array of Players
 --------------------------------------------------------------------------------------------------*/
+params [
+	["_alive", false, [true]]
+];
 
 private _players = allPlayers - entities "HeadlessClient_F";
-_players select { alive _x };
+
+if (_alive) exitWith {
+	_players select { alive _x };
+};
+
+_players

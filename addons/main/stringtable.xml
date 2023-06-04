@@ -6,6 +6,10 @@
         <Original>Waiting for players in the lobby to spawn...</Original>
         <English>Waiting for players in the lobby to spawn...</English>
       </Key>
+      <Key ID="STR_IFA_UK_DES_WAITFORSPAWN">
+        <Original>Waiting for respawn...</Original>
+        <English>Waiting for respawn...</English>
+      </Key>
       <Key ID="STR_IFA_UK_DES_CAMPAIGN_TITLE">
         <Original>IFA - Desert Rats</Original>
         <English>IFA - Desert Rats</English>
@@ -109,5 +113,98 @@
         <English>Earlier this month, scouts have found that the Germans have been having increased activity in the area of Fort Marcuca. We suspect that the Germans have created a forward base inside of the castle have have constructed a makeshift airfield. We need to find what assets the Germans have brought to this base.</English>
       </Key>
     </Container>
+  </Package>
+  <Package name="M02">
+    <Container name="Mission Info">
+      <Key ID="STR_IFA_UK_DES_REPAIRCOMPLETE">
+        <Original>Rearm and repair complete...</Original>
+        <English>Rearm and repair complete...</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_REPAIRING">
+        <Original>Rearming and repairing...</Original>
+        <English>Rearming and repairing...</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_DEBRIEFING_VICTORY_TITLE">
+        <Original>Mission Completed</Original>
+        <English>Mission Completed</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_DEBRIEFING_VICTORY_SUBTITLE">
+        <Original>All Targets Destroyed</Original>
+        <English>All Targets Destroyed</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_DEBRIEFING_VICTORY_DESC">
+        <Original>I would like to extend my congratulations and appreciation to all of you for your exceptional performance in the recent mission. Our objectives were to neutralize the Landing Craft, Tiger Tanks, and Repair Trucks, and I'm pleased to inform you that we have accomplished this task with utmost precision and success.&lt;br/&gt;&lt;br/&gt;The coordination and expertise displayed by each member of the team were truly commendable. Your unwavering dedication to the mission's objectives and the seamless execution of your duties have resulted in a resounding victory.&lt;br/&gt;&lt;br/&gt;Your collective efforts not only eliminated the identified targets but also contributed significantly to weakening the enemy's capabilities and bolstering our own position on the battlefield.</Original>
+        <English>I would like to extend my congratulations and appreciation to all of you for your exceptional performance in the recent mission. Our objectives were to neutralize the Landing Craft, Tiger Tanks, and Repair Trucks, and I'm pleased to inform you that we have accomplished this task with utmost precision and success.&lt;br/&gt;&lt;br/&gt;The coordination and expertise displayed by each member of the team were truly commendable. Your unwavering dedication to the mission's objectives and the seamless execution of your duties have resulted in a resounding victory.&lt;br/&gt;&lt;br/&gt;Your collective efforts not only eliminated the identified targets but also contributed significantly to weakening the enemy's capabilities and bolstering our own position on the battlefield.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_MISSION_TITLE">
+        <Original>Desert Thunder</Original>
+        <English>Desert Thunder</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_MISSION_DESC">
+        <Original>After the destruction of the German airforce, American P-47s attack key German assets.</Original>
+        <English>After the destruction of the German airforce, American P-47s attack key German assets.</English>
+      </Key>
+    </Container>
+    <Container name="Sentences">
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_INTRO_RANGEMASTER_01">
+        <Original>Gentlemen, we have identified three high-value ground targets in your area of operation. I repeat, three targets.</Original>
+        <English>Gentlemen, we have identified three high-value ground targets in your area of operation. I repeat, three targets.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_INTRO_RANGEMASTER_02">
+        <Original>Your primary objectives are as follows: A set of Landing Craft, Tiger Tanks, and a few Repair Trucks.</Original>
+        <English>Your primary objectives are as follows: A set of Landing Craft, Tiger Tanks, and a few Repair Trucks.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_INTRO_RANGEMASTER_03">
+        <Original>The threat level is moderate. We have reports of anti-aircraft artillery in the vicinity. Exercise caution and maintain situational awareness.</Original>
+        <English>The threat level is moderate. We have reports of anti-aircraft artillery in the vicinity. Exercise caution and maintain situational awareness.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_01">
+        <Original>That's the last of the landers. Strong work!</Original>
+        <English>That's the last of the landers. Strong work!</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_02">
+        <Original>No more Tiger tanks! The boys on the ground will be greatful.</Original>
+        <English>No more Tiger tanks! The boys on the ground will be greatful.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_03">
+        <Original>The trucks have been destroyed. No more mobile repairs for German armor.</Original>
+        <English>The trucks have been destroyed. No more mobile repairs for German armor.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_04">
+        <Original>All objectives complete, return to base. The brits want to begin their final assault.</Original>
+        <English>All objectives complete, return to base. The brits want to begin their final assault.</English>
+      </Key>
+    </Container>
+    <Container name="Tasks">
+      <Key ID="STR_IFA_UK_DES_M02_TASKS_TRUCK_TITLE">
+        <Original>Destroy Repair Trucks</Original>
+        <English>Destroy Repair Trucks</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_TASKS_TRUCK_DESC">
+        <Original>The Germans have a few repair trucks at a nearby facility. Destroy them.</Original>
+        <English>The Germans have a few repair trucks at a nearby facility. Destroy them.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_TASKS_TANK_TITLE">
+        <Original>Destroy Tiger Tanks</Original>
+        <English>Destroy Tiger Tanks</English>
+        <Czech />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_TASKS_TANK_DESC">
+        <Original>Four Tiger tanks have been spotted at a German controlled fort. Destroy them.</Original>
+        <English>Four Tiger tanks have been spotted at a German controlled fort. Destroy them.</English>
+        <Czech />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_TASKS_LANDER_TITLE">
+        <Original>Destroy Landers</Original>
+        <English>Destroy Landers</English>
+        <Czech />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M02_TASKS_LANDER_DESC">
+        <Original>The Germans have a number of troop transport landers at their docks. Destroy them.</Original>
+        <English>The Germans have a number of troop transport landers at their docks. Destroy them.</English>
+        <Czech />
+      </Key>
+    </Container>
+    <Container name="Diary" />
   </Package>
 </Project>

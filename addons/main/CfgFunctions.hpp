@@ -15,7 +15,7 @@ class CfgFunctions
 
 			// Unit Related
 			class clearGroupWaypoints {};
-			class getAlivePlayers {};
+			class getPlayers {};
 			class moveOnCombat {};
 
 			// Vehicle Related
@@ -34,6 +34,12 @@ class CfgFunctions
 
 			// Conditional Related
 			class getTimeDateAhead {};
+
+			// Client Related
+			class localizedHint {};
+			class disableACEVolumeUpdate {};
+
+			// Unsorted
 		};
 	};
 };

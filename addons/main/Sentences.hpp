@@ -26,4 +26,19 @@ class CfgSentences
             #include "\z\IFA_UK_DES\main\kb\M01\escape.bikb"
 		};
 	};
+
+	class IFA_UK_DES_M02
+	{
+		class intro
+		{
+			file = "\z\IFA_UK_DES\main\kb\M02\intro.bikb";
+			#include "\z\IFA_UK_DES\main\kb\M02\intro.bikb"
+		};
+
+		class tasks
+		{
+			file = "\z\IFA_UK_DES\main\kb\M02\tasks.bikb";
+			#include "\z\IFA_UK_DES\main\kb\M02\tasks.bikb"
+		};
+	};
 };

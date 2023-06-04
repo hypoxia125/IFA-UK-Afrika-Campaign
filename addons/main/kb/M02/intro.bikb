@@ -1,0 +1,37 @@
+class Sentences
+{
+    class intro_1
+    {
+        name = "IFA_UK_DES_M02_Intro_Rangemaster_01";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_INTRO_RANGEMASTER_01";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Intro_Rangemaster_01.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class intro_2
+    {
+        name = "IFA_UK_DES_M02_Intro_Rangemaster_02";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_INTRO_RANGEMASTER_02";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Intro_Rangemaster_02.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class intro_3
+    {
+        name = "IFA_UK_DES_M02_Intro_Rangemaster_03";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_INTRO_RANGEMASTER_03";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Intro_Rangemaster_03.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+};
+
+class Arguments {};
+class Special {};
+startWithVocal[] = { "hour" };
+startWithConsonant[] = { "europe", "university" };

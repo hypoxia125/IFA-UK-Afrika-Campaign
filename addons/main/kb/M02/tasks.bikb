@@ -1,0 +1,47 @@
+class Sentences
+{
+    class lander
+    {
+        name = "IFA_UK_DES_M02_Tasks_Rangemaster_01";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_01";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Tasks_Rangemaster_01.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class tank
+    {
+        name = "IFA_UK_DES_M02_Tasks_Rangemaster_02";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_02";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Tasks_Rangemaster_02.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class truck
+    {
+        name = "IFA_UK_DES_M02_Tasks_Rangemaster_03";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_03";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Tasks_Rangemaster_03.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class final
+    {
+        name = "IFA_UK_DES_M02_Tasks_Rangemaster_04";
+        text = "$STR_IFA_UK_DES_M02_SPEECH_TASKS_RANGEMASTER_04";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M02\IFA_UK_DES_M02_Tasks_Rangemaster_04.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+};
+
+class Arguments {};
+class Special {};
+startWithVocal[] = { "hour" };
+startWithConsonant[] = { "europe", "university" };
