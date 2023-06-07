@@ -34,6 +34,18 @@ class Campaign
             end1 = "IFA_UK_DES_M01";
             template = "IFA_UK_DES_M01.iron_excelsior_Tobruk";
         };
+
+        class IFA_UK_DES_M02 : MissionDefault
+        {
+            end1 = "IFA_UK_DES_M02";
+            template = "IFA_UK_DES_M02.iron_excelsior_Tobruk";
+        };
+
+        class IFA_UK_DES_M03 : MissionDefault
+        {
+            end1 = "IFA_UK_DES_M03";
+            template = "IFA_UK_DES_M03.iron_excelsior_Tobruk";
+        };
     };
 
 	class Missions

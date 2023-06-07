@@ -38,6 +38,7 @@ class CfgFunctions
 			// Client Related
 			class localizedHint {};
 			class disableACEVolumeUpdate {};
+			class jukebox {};
 
 			// Unsorted
 		};

@@ -1,3 +1,5 @@
 #include "CfgFunctions.hpp"
 #include "CfgPatches.hpp"
-#include "Sentences.hpp"
+#include "CfgMPGameTypes.hpp"
+#include "CfgSentences.hpp"
+#include "CfgMainMenuSpotlight.hpp"

@@ -1,0 +1,27 @@
+class Sentences
+{
+    class intro_1
+    {
+        name = "IFA_UK_DES_M03_Intro_Miller_01";
+        text = "$STR_IFA_UK_DES_M03_SPEECH_INTRO_MILLER_01";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M03\IFA_UK_DES_M03_Intro_Miller_01.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+
+    class intro_2
+    {
+        name = "IFA_UK_DES_M03_Intro_Miller_02";
+        text = "$STR_IFA_UK_DES_M03_SPEECH_INTRO_MILLER_02";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M03\IFA_UK_DES_M03_Intro_Miller_02.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+};
+
+class Arguments {};
+class Special {};
+startWithVocal[] = { "hour" };
+startWithConsonant[] = { "europe", "university" };

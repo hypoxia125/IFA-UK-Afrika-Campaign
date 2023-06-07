@@ -23,12 +23,24 @@
   <Package name="M01">
     <Container name="Mission Info">
       <Key ID="STR_IFA_UK_DES_M01_MISSION_TITLE">
-        <Original>Desert Shadows</Original>
-        <English>Desert Shadows</English>
+        <Original>01 Desert Shadows</Original>
+        <English>01 Desert Shadows</English>
       </Key>
       <Key ID="STR_IFA_UK_DES_M01_MISSION_DESC">
         <Original>A recon team is tasked to infiltrate a German base hidden in castle ruins and overlook an airfield.</Original>
         <English>A recon team is tasked to infiltrate a German base hidden in castle ruins and overlook an airfield.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_DEBRIEFING_VICTORY_TITLE">
+        <Original>Mission Complete</Original>
+        <English>Mission Complete</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_DEBRIEFING_VICTORY_SUBTITLE">
+        <Original>All Objectives Complete</Original>
+        <English>All Objectives Complete</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M01_DEBRIEFING_VICTORY_DESC">
+        <Original>Under the cover of darkness, our team infiltrated the enemy territory using stealth and precision. We made our way to a vantage point overlooking the airfield and began gathering vital intelligence on enemy aircraft movements, personnel positions, and security measures.&lt;br/&gt;&lt;br&gt;Once all charges were set, we retreated to a safe distance and remotely detonated the explosives, effectively destroying all identified enemy aircraft. The resulting explosions created chaos and confusion within the enemy ranks, providing us with an opportunity to make a swift escape.</Original>
+        <English>Under the cover of darkness, our team infiltrated the enemy territory using stealth and precision. We made our way to a vantage point overlooking the airfield and began gathering vital intelligence on enemy aircraft movements, personnel positions, and security measures.&lt;br/&gt;&lt;br&gt;Once all charges were set, we retreated to a safe distance and remotely detonated the explosives, effectively destroying all identified enemy aircraft. The resulting explosions created chaos and confusion within the enemy ranks, providing us with an opportunity to make a swift escape.</English>
       </Key>
     </Container>
     <Container name="Sentences">
@@ -124,21 +136,21 @@
         <Original>Rearming and repairing...</Original>
         <English>Rearming and repairing...</English>
       </Key>
-      <Key ID="STR_IFA_UK_DES_DEBRIEFING_VICTORY_TITLE">
+      <Key ID="STR_IFA_UK_DES_M02_DEBRIEFING_VICTORY_TITLE">
         <Original>Mission Completed</Original>
         <English>Mission Completed</English>
       </Key>
-      <Key ID="STR_IFA_UK_DES_DEBRIEFING_VICTORY_SUBTITLE">
+      <Key ID="STR_IFA_UK_DES_M02_DEBRIEFING_VICTORY_SUBTITLE">
         <Original>All Targets Destroyed</Original>
         <English>All Targets Destroyed</English>
       </Key>
-      <Key ID="STR_IFA_UK_DES_DEBRIEFING_VICTORY_DESC">
+      <Key ID="STR_IFA_UK_DES_M02_DEBRIEFING_VICTORY_DESC">
         <Original>I would like to extend my congratulations and appreciation to all of you for your exceptional performance in the recent mission. Our objectives were to neutralize the Landing Craft, Tiger Tanks, and Repair Trucks, and I'm pleased to inform you that we have accomplished this task with utmost precision and success.&lt;br/&gt;&lt;br/&gt;The coordination and expertise displayed by each member of the team were truly commendable. Your unwavering dedication to the mission's objectives and the seamless execution of your duties have resulted in a resounding victory.&lt;br/&gt;&lt;br/&gt;Your collective efforts not only eliminated the identified targets but also contributed significantly to weakening the enemy's capabilities and bolstering our own position on the battlefield.</Original>
         <English>I would like to extend my congratulations and appreciation to all of you for your exceptional performance in the recent mission. Our objectives were to neutralize the Landing Craft, Tiger Tanks, and Repair Trucks, and I'm pleased to inform you that we have accomplished this task with utmost precision and success.&lt;br/&gt;&lt;br/&gt;The coordination and expertise displayed by each member of the team were truly commendable. Your unwavering dedication to the mission's objectives and the seamless execution of your duties have resulted in a resounding victory.&lt;br/&gt;&lt;br/&gt;Your collective efforts not only eliminated the identified targets but also contributed significantly to weakening the enemy's capabilities and bolstering our own position on the battlefield.</English>
       </Key>
       <Key ID="STR_IFA_UK_DES_M02_MISSION_TITLE">
-        <Original>Desert Thunder</Original>
-        <English>Desert Thunder</English>
+        <Original>02 Desert Thunder</Original>
+        <English>02 Desert Thunder</English>
       </Key>
       <Key ID="STR_IFA_UK_DES_M02_MISSION_DESC">
         <Original>After the destruction of the German airforce, American P-47s attack key German assets.</Original>
@@ -206,5 +218,75 @@
       </Key>
     </Container>
     <Container name="Diary" />
+  </Package>
+  <Package name="M03">
+    <Container name="Mission Info">
+      <Key ID="STR_IFA_UK_DES_M03_MISSION_TITLE">
+        <Original>03 Iron Hammer</Original>
+        <English>03 Iron Hammer</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_MISSION_DESC">
+        <Original>British armor advances on German strongholds.</Original>
+        <English>British armor advances on German strongholds.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_DEBRIEFING_VICTORY_TITLE">
+        <Original>Mission Complete</Original>
+        <English>Mission Complete</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_DEBRIEFING_VICTORY_SUBTITLE">
+        <Original>All Strongholds Captured</Original>
+        <English>All Strongholds Captured</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_DEBRIEFING_VICTORY_DESC">
+        <Original>The objective of this operation was to capture German strongholds and neutralize enemy tanks in the designated area. The mission was executed with utmost precision and success, resulting in the capture of the strongholds and the defeat of enemy tanks.</Original>
+        <English>The objective of this operation was to capture German strongholds and neutralize enemy tanks in the designated area. The mission was executed with utmost precision and success, resulting in the capture of the strongholds and the defeat of enemy tanks.</English>
+      </Key>
+    </Container>
+    <Container name="Sentences">
+      <Key ID="STR_IFA_UK_DES_M03_SPEECH_INTRO_MILLER_01">
+        <Original>Alright, its time for the assault on the German strongholds! With the German air force out of the picture, and the Tiger tanks destroyed, we can advance on the strongholds which will allow our infantry to successfully capture Tobruk in the coming weeks.</Original>
+        <English>Alright, its time for the assault on the German strongholds! With the German air force out of the picture, and the Tiger tanks destroyed, we can advance on the strongholds which will allow our infantry to successfully capture Tobruk in the coming weeks.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_SPEECH_INTRO_MILLER_02">
+        <Original>The Germans still have many remaining Panzer Fours and anti-tank guns so expect heavy resistance. Eliminate the threats at the strongholds.</Original>
+        <English>The Germans still have many remaining Panzer Fours and anti-tank guns so expect heavy resistance. Eliminate the threats at the strongholds.</English>
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_SPEECH_END_MILLER_01">
+        <Original>Great work! That's all of the strongholds! Tobruk is ours!</Original>
+        <English>Great work! That's all of the strongholds! Tobruk is ours!</English>
+      </Key>
+    </Container>
+    <Container name="Tasks">
+      <Key ID="STR_IFA_UK_DES_M03_TASKS_ASSAULT01_TITLE">
+        <Original>Capture King's Cross</Original>
+        <English>Capture King's Cross</English>
+        <Czech />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_TASKS_ASSAULT01_DESC">
+        <Original>German infantry and anti-tank units have reinforced themselves at King's Cross. Eliminate all threats or be present in greater numbers.&lt;br/&gt;&lt;br/&gt;You may need to mobilize on foot!</Original>
+        <English>German infantry and anti-tank units have reinforced themselves at King's Cross. Eliminate all threats or be present in greater numbers.&lt;br/&gt;&lt;br/&gt;You may need to mobilize on foot!</English>
+        <Czech />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_TASKS_ASSAULT02_TITLE">
+        <Original>Capture German Strongholds</Original>
+        <English>Capture German Strongholds</English>
+        <Czech />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_TASKS_ASSAULT02_DESC">
+        <Original>There are three German strongholds near the bay. Eliminate all threats or be present in larger numbers at all three sites.&lt;br/&gt;&lt;br/&gt;You may need to mobilize on foot!</Original>
+        <English>There are three German strongholds near the bay. Eliminate all threats or be present in larger numbers at all three sites.&lt;br/&gt;&lt;br/&gt;You may need to mobilize on foot!</English>
+        <Czech />
+      </Key>
+    </Container>
+    <Container name="Diary">
+      <Key ID="STR_IFA_UK_DES_M03_DIARY_01_TITLE">
+        <Original />
+        <English />
+      </Key>
+      <Key ID="STR_IFA_UK_DES_M03_DIARY_01_DESC">
+        <Original>Dear Diary,&lt;br/&gt;&lt;br/&gt;Today is a momentous day for the British Desert Rats and the entire Allied forces. As I sit here in my tent, I can feel the energy and anticipation building up within our ranks. Today marks the beginning of our mission to launch a decisive attack on German strongholds alongside our trusted allied armor. The fate of this operation rests heavily on our shoulders, and I cannot help but feel a mix of excitement and apprehension as we prepare for what lies ahead.&lt;br/&gt;&lt;br/&gt;Our mission is no small feat. We aim to break through the enemy lines and liberate the occupied territories, bringing an end to the tyrannical grip of the Axis powers. The outcome of this assault will undoubtedly shape the course of the war. Every soldier under my command understands the gravity of the task at hand, and their determination is unwavering.&lt;br/&gt;&lt;br/&gt;Today, we will march forward with a sense of purpose and unity, each step bringing us closer to our objective. The sound of the tanks rumbling, the camaraderie shared among soldiers, and the steadfast support of our allies will be the backbone of our operation. We will face the enemy head-on, ready to overcome any obstacle that stands in our way.&lt;br/&gt;&lt;br/&gt;Commander Alexander Campbell</Original>
+        <English>Dear Diary,&lt;br/&gt;&lt;br/&gt;Today is a momentous day for the British Desert Rats and the entire Allied forces. As I sit here in my tent, I can feel the energy and anticipation building up within our ranks. Today marks the beginning of our mission to launch a decisive attack on German strongholds alongside our trusted allied armor. The fate of this operation rests heavily on our shoulders, and I cannot help but feel a mix of excitement and apprehension as we prepare for what lies ahead.&lt;br/&gt;&lt;br/&gt;Our mission is no small feat. We aim to break through the enemy lines and liberate the occupied territories, bringing an end to the tyrannical grip of the Axis powers. The outcome of this assault will undoubtedly shape the course of the war. Every soldier under my command understands the gravity of the task at hand, and their determination is unwavering.&lt;br/&gt;&lt;br/&gt;Today, we will march forward with a sense of purpose and unity, each step bringing us closer to our objective. The sound of the tanks rumbling, the camaraderie shared among soldiers, and the steadfast support of our allies will be the backbone of our operation. We will face the enemy head-on, ready to overcome any obstacle that stands in our way.&lt;br/&gt;&lt;br/&gt;Commander Alexander Campbell</English>
+      </Key>
+    </Container>
   </Package>
 </Project>

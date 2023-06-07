@@ -1,0 +1,17 @@
+class Sentences
+{
+    class end
+    {
+        name = "IFA_UK_DES_M03_End_Miller_01";
+        text = "$STR_IFA_UK_DES_M03_SPEECH_END_MILLER_01";
+        speech[] = {"\z\IFA_UK_DES\main\data\voice\M03\IFA_UK_DES_M03_End_Miller_01.ogg"};
+        class Arguments {};
+
+        actor = "HQ";
+    };
+};
+
+class Arguments {};
+class Special {};
+startWithVocal[] = { "hour" };
+startWithConsonant[] = { "europe", "university" };
