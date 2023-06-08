@@ -5,6 +5,9 @@ params ["_newUnit", "_oldUnit", "_respawn", "_respawnDelay"];
 // Fade Out
 titleText ["", "BLACK OUT", 1e-3, true, false];
 
+// Loadout for ace
+[_newUnit] call HYP_fnc_addACEItems;
+
 _newUnit allowDamage false;
 _newUnit setPosATL [0,0,0];
 

@@ -2,7 +2,7 @@
 
 [] spawn {
     waitUntil {
-        private _players = [true] call HYP_fnc_getPlayers;
+        private _players = [false] call HYP_fnc_getPlayers;
         private _playersInLobby = (playersNumber PLAYER_SIDE - count _players) <= 0;
 
         if (time % 25 == 0) then {

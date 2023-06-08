@@ -8,6 +8,9 @@ titleText ["", "BLACK OUT", 1e-3, true, false];
 // Set Face Towards Castle
 _newUnit setDir (getDir _newUnit + (_newUnit getRelDir [5269.68,1637.52,0]));
 
+// Loadout for ace
+[_newUnit] call HYP_fnc_addACEItems;
+
 // Fade In
 sleep 1;
 titleText ["", "BLACK IN", 3, true, false];

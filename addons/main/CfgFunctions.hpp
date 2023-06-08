@@ -4,7 +4,7 @@ class CfgFunctions
 	{
 		class framework
 		{
-			file = "z\IFA_UK_DES\main\functions\Hypoxic Framework";
+			file = "\z\IFA_UK_DES\main\functions\Hypoxic Framework";
 
 			// Arsenal Related
 			class addACEItemstoArsenal {};
@@ -41,6 +41,13 @@ class CfgFunctions
 			class jukebox {};
 
 			// Unsorted
+		};
+
+		class fnc
+		{
+			file = "\z\IFA_UK_DES\main\functions";
+
+			class addACEItems {};
 		};
 	};
 };

@@ -2,4 +2,4 @@ params [
 	["_key", "", [""]]
 ];
 
-hint (_key call BIS_fnc_localize);
+hintSilent (_key call BIS_fnc_localize);

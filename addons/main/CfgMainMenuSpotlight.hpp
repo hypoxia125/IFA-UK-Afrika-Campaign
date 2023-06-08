@@ -3,7 +3,7 @@ class CfgMainMenuSpotlight
 	class IFA_UK_DES
 	{
 		action = "(findDisplay 0) createMPCampaignDisplay 'IFA_UK_DES'";
-		actionText = "Play";
+		actionText = "";
 		condition = "true";
 		picture = "\z\IFA_UK_DES\main\data\img\modImg.jpg";
 		text = "$STR_IFA_UK_DES_CAMPAIGN_TITLE";

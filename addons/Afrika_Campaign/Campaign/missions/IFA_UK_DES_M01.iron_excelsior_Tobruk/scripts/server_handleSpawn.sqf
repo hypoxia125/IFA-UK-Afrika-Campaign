@@ -2,10 +2,10 @@
 
 [] spawn {
     waitUntil {
-        private _players = [true] call HYP_fnc_getPlayers;
+        private _players = [false] call HYP_fnc_getPlayers;
 
         if (time % 25 == 0) then {
-            ["Waiting for all players in lobby to spawn..."] remoteExec ["hintSilent"];
+            ["$STR_IFA_UK_DES_WAITFORPLAYERS"] remoteExec ["HYP_fnc_localizedHint"];
         };
 
         count _players > 0

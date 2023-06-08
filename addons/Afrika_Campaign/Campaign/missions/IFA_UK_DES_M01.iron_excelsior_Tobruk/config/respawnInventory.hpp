@@ -52,7 +52,7 @@ class CfgRespawnInventory
     backpack = "B_LIB_UK_HSack";
     weapons[] = {"LIB_M1928_Thompson", "LIB_Binocular_UK", "Throw", "Put"};
     magazines[] = {"LIB_US_M18", "LIB_US_M18", "LIB_MillsBomb", "LIB_MillsBomb", "LIB_30Rnd_45ACP", "LIB_30Rnd_45ACP", "LIB_30Rnd_45ACP", "LIB_30Rnd_45ACP", "LIB_30Rnd_45ACP"};
-    items[] = {"FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "Medikit"};
+    items[] = {"Medikit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit", "FirstAidKit"};
     linkedItems[] = {"V_LIB_UK_P37_Rifleman", "H_LIB_UK_Helmet_Mk2_Desert_Bowed", "", "ItemMap", "ItemCompass", "ItemWatch", "ItemRadio", "", "", "", "", "", "", "", ""};
     };
 };

@@ -60,6 +60,6 @@ disabledAI = TRUE;
 enableDebugConsole = 1;  // 0 - Only Editor | 1 - SP/Hosts/Admins | 2 - Everyone
 briefing = FALSE;
 saving = FALSE;
-skipLobby = TRUE;
+skipLobby = FALSE;
 
 doneKeys[] = {"IFA_UK_DES_M03_DONEKEY"};
