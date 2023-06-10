@@ -127,4 +127,5 @@ private _pos = [5410.91,5784.51,10];
 	sleep 3;
 
 	["victory", true, true, true, false] remoteExec ["BIS_fnc_endMission"];
+	["IFA_UK_DES_M02.iron_excelsior_Tobruk_done"] remoteExec ["activateKey"];
 };

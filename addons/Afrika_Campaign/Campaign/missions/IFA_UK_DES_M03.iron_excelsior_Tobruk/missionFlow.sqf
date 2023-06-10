@@ -94,3 +94,4 @@ waitUntil {scriptDone _speech};
 sleep 3;
 
 ["victory", true, true, true, false] remoteExec ["BIS_fnc_endMission"];
+["IFA_UK_DES_M03.iron_excelsior_Tobruk_done"] remoteExec ["activateKey"];

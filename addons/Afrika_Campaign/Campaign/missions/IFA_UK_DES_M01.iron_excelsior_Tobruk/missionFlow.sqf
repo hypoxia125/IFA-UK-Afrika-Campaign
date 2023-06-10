@@ -141,4 +141,5 @@ waitUntil {
 	_players findIf {alive _x && !(_x inArea "area_ending")} == -1
 };
 
-["endVictory", true, true, true, false] remoteExec ["BIS_fnc_endMission"];
+["victory", true, true, true, false] remoteExec ["BIS_fnc_endMission"];
+["IFA_UK_DES_M01.iron_excelsior_Tobruk_done"] remoteExec ["activateKey"];

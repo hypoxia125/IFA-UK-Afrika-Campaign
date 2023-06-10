@@ -11,7 +11,7 @@ class CfgDebriefing
 		subtitle = "$STR_IFA_UK_DES_M01_DEBRIEFING_VICTORY_SUBTITLE";
 		description = "$STR_IFA_UK_DES_M01_DEBRIEFING_VICTORY_DESC";
 		pictureBackground = "";
-		picture = "GroundSupport_CAS_WEST";
+		picture = "b_recon";
 		pictureColor[] = COLOR_WEST;
 	};
 };

@@ -59,7 +59,6 @@ allowProfileGlasses = FALSE;
 disabledAI = TRUE;
 enableDebugConsole = 1;  // 0 - Only Editor | 1 - SP/Hosts/Admins | 2 - Everyone
 briefing = 0;
-saving = FALSE;
-skipLobby = FALSE;
+skipLobby = TRUE;
 
-doneKeys[] = {"IFA_UK_DES_M01_DONEKEY"};
+doneKeys[] = {"IFA_UK_DES_M01.iron_excelsior_Tobruk_done"};

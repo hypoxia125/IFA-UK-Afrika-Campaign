@@ -8,6 +8,14 @@ class MissionDefault : NoEndings
     lives = -1;
     noAward = 1;
     cutscene = "";
+
+    lost = "";
+    end1 = "";
+    end2 = "";
+    end3 = "";
+    end4 = "";
+    end5 = "";
+    end6 = "";
 };
 
 class Campaign
@@ -20,7 +28,6 @@ class Campaign
     overviewPicture = "\z\IFA_UK_DES\main\data\img\modImg.jpg";
     overviewText = "$STR_IFA_UK_DES_CAMPAIGN_DESC";
     disableMP = 0;
-    enableHub = 1;
 
     class IFA_UK_DES : NoEndings
     {
@@ -31,21 +38,27 @@ class Campaign
 
         class IFA_UK_DES_M01 : MissionDefault
         {
-            end1 = "IFA_UK_DES_M02";
+            repeat = 0;
+            victory = "IFA_UK_DES_M02";
+            endDefault = "IFA_UK_DES_M02";
             lost = "IFA_UK_DES_M01";
             template = "IFA_UK_DES_M01.iron_excelsior_Tobruk";
         };
 
         class IFA_UK_DES_M02 : MissionDefault
         {
-            end1 = "IFA_UK_DES_M03";
+            repeat = 0;
+            victory = "IFA_UK_DES_M03";
+            endDefault = "IFA_UK_DES_M03";
             lost = "IFA_UK_DES_M02";
             template = "IFA_UK_DES_M02.iron_excelsior_Tobruk";
         };
 
         class IFA_UK_DES_M03 : MissionDefault
         {
-            end1 = "";
+            repeat = 0;
+            victory = "";
+            endDefault = "";
             lost = "IFA_UK_DES_M03";
             template = "IFA_UK_DES_M03.iron_excelsior_Tobruk";
         };
