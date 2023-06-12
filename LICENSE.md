@@ -1,4 +1,5 @@
-Copyright (c) {YEAR} {AUTHOR}
+ARMA PUBLIC LICENSE
+https://www.bistudio.com/community/licenses/arma-public-license
 
 Brief summary of this Licence
 
@@ -9,14 +10,13 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
     Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
     Noncommercial - You may not use this material for any commercial purposes.
     Arma Only - You may not convert or adapt this material to be used in other games than Arma.
-    No Derivatives - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-Full version of licence
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Arma Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Arma Public License – No Derivatives ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
-Section 1 – Definitions
+Section 1 - Definitions
 
     Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+    Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
     ArmaOnly means primarily intended for or directed towards the use in any of existing and future Arma games, including but not limited to Arma: Cold War Assault, Arma, Arma 2 and Arma 3 and its official sequels and expansion packs.
     Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
     Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
@@ -32,10 +32,10 @@ Section 1 – Definitions
 Section 2 – Scope
 
     License grant
-        1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+        Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
             reproduce and Share the Licensed Material, in whole or in part, for NonCommercial and ArmaOnly purposes only; and
-            produce and reproduce for NonCommercial and ArmaOnly purposes only, but not Share Adapted Material.
-        Exceptions and Limitations For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+            produce, reproduce, and Share Adapted Material for NonCommercial and ArmaOnly purposes only.
+        Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
         Term. The term of this Public License is specified in Section 6(a).
         Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
         Downstream recipients.
@@ -53,29 +53,27 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
     Attribution
 
-            If You Share the Licensed Material, You must:
-                retain the following if it is supplied by the Licensor with the Licensed Material:
-                    identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-                    a copyright notice;
-                    a notice that refers to this Public License;
-                    a notice that refers to the disclaimer of warranties;
-                    a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-                indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-                indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-
-                For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
-            You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-            If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(a) to the extent reasonably practicable.
+        If You Share the Licensed Material (including in modified form), You must:
+            retain the following if it is supplied by the Licensor with the Licensed Material:
+                identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+                a copyright notice;
+                a notice that refers to this Public License;
+                a notice that refers to the disclaimer of warranties;
+                a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+            indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+            indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+        You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+        If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(a) to the extent reasonably practicable.
+        If You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
 
 Section 4 – Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
-    for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial and ArmaOnly purposes only, provided You do not Share Adapted Material;
+    for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial and ArmaOnly purposes only;
     if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
     You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 Section 5 – Disclaimer of Warranties and Limitation of Liability
 
     Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
